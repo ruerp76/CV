@@ -1,0 +1,77 @@
+/* MIse en page */
+
+html{
+  /* background-color: #E8E6E5; */
+}
+
+
+
+.page{
+  display: flex;
+  width: 70%;
+  height: auto;
+  margin: auto;
+  padding: 5px;
+  background-color: #E8E6E5;
+}
+
+header{
+}
+
+aside{
+  width: 35%;
+  background-color: #5DA4D9;
+
+}
+
+main{
+  background-color: #E8E6E5;
+}
+
+.ico{
+  width: 30%;
+  /* background-color: orange; */
+  text-align: center;
+}
+
+.ico i{
+  font-size: 36px;
+  padding-top: 20px;
+  color: #767270;
+}
+
+.bloc_main{
+  display: flex;
+  width: 95%;
+  margin: auto;
+  margin-bottom: 10px;
+  background-color: white;
+  box-shadow: 1px 1px 5px grey;
+}
+
+.bloc_text{
+  width: 90%;
+}
+
+footer{
+  /* display: flex; */
+  width: 95%;
+  margin: auto;
+  margin-top: 10px;
+  background-color: white;
+  box-shadow: 1px 1px 5px grey;
+}
+
+section{
+  display: flex;
+  height: 155px;
+}
+
+.ico_bas{
+  display: flex;
+  justify-content: space-between;
+  width: 75%;
+  padding-top: 20px;
+  font-size: 36px;
+  color: #5DA4D9;
+}
