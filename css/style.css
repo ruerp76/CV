@@ -1,5 +1,5 @@
-/* MIse en page */
 
+/* MIse en page */
 
 h1, h4, p{
   font-family: 'Comic Sans MS', cursive;
@@ -7,7 +7,32 @@ h1, h4, p{
 }
 
 p{
-  /* font-size: 12px; */
+
+}
+
+.titre{
+    position: absolute;
+    bottom: 0.5%;
+    left: 20%;
+    text-shadow: 0 1px 6px #555555;
+    color: white;
+}
+
+.titre h2{
+    margin-bottom: inherit;
+    font-size: 2em;
+}
+.titre p{
+    margin-top: inherit;
+    font-size: 1.8em;
+}
+
+.header{
+    position: relative;
+}
+
+.header img{
+    max-width: 100%;
 }
 
 
